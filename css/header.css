@@ -1,9 +1,9 @@
 /* Header */
 .header {
-	background-color: black;
+	background-color: rgb(15, 3, 61);
 	color: white;
 	padding: 1em;
-	text-align: center;
+	text-align: right;
   }
   
   .header nav ul {
