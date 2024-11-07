@@ -1,7 +1,7 @@
   /* Footer */
   .footer {
 	background-color: black;
-	color: white;
+	color: rgb(56, 144, 82);
 	text-align: center;
 	padding: 1em;
 	position: fixed;
@@ -15,5 +15,5 @@
 }
 
 .instagram-icon:hover {
-    fill: yellow; /* Cambia a amarillo en hover */
+    fill: rgb(30, 100, 63); /* Cambia a amarillo en hover */
 }
